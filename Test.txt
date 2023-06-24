@@ -8,5 +8,9 @@ new commented thing is here
 
 ghost message from repo remote
 
+<<<<<<< Updated upstream
 
 step 1. data incorporated before
+=======
+2. step
+>>>>>>> Stashed changes
