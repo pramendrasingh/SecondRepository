@@ -7,3 +7,6 @@ the beauty from github changes.
 new commented thing is here
 
 ghost message from repo remote
+
+
+step 1. data incorporated before
