@@ -6,3 +6,4 @@ the next commit from local
 =======
 the beauty from github changes.
 >>>>>>> 8192fd6560b7f67f181c92f3a09a6539361953c7
+new commented thing is here
