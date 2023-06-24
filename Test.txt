@@ -5,3 +5,5 @@ the next commit from local
 
 the beauty from github changes.
 new commented thing is here
+
+ghost message from repo remote
